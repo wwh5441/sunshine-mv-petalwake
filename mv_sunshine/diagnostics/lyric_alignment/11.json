@@ -1,0 +1,181 @@
+{
+  "text": " 阳光晒暖了棉被",
+  "segments": [
+    {
+      "start": 57.26,
+      "end": 59.78,
+      "text": " 阳光晒暖了棉被",
+      "seek": null,
+      "tokens": [
+        220,
+        10034,
+        111,
+        20690,
+        5094,
+        240,
+        23826,
+        244,
+        2289,
+        16407,
+        231,
+        23238
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 阳",
+          "start": 57.26,
+          "end": 57.48,
+          "probability": 0.47357482369989157,
+          "tokens": [
+            220,
+            10034,
+            111
+          ]
+        },
+        {
+          "word": "光",
+          "start": 57.48,
+          "end": 57.84,
+          "probability": 0.9874516129493713,
+          "tokens": [
+            20690
+          ]
+        },
+        {
+          "word": "晒",
+          "start": 57.84,
+          "end": 58.3,
+          "probability": 0.6627308428287506,
+          "tokens": [
+            5094,
+            240
+          ]
+        },
+        {
+          "word": "暖",
+          "start": 58.3,
+          "end": 58.84,
+          "probability": 0.21096518822014332,
+          "tokens": [
+            23826,
+            244
+          ]
+        },
+        {
+          "word": "了",
+          "start": 58.84,
+          "end": 59.14,
+          "probability": 0.05826742947101593,
+          "tokens": [
+            2289
+          ]
+        },
+        {
+          "word": "棉",
+          "start": 59.14,
+          "end": 59.32,
+          "probability": 0.5013646620791405,
+          "tokens": [
+            16407,
+            231
+          ]
+        },
+        {
+          "word": "被",
+          "start": 59.32,
+          "end": 59.78,
+          "probability": 0.3803628385066986,
+          "tokens": [
+            23238
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "segments": [
+      {
+        "start": 0.36,
+        "end": 2.88,
+        "text": " 阳光晒暖了棉被",
+        "words": [
+          {
+            "word": " 阳",
+            "start": 0.36,
+            "end": 0.58,
+            "tokens": [
+              220,
+              10034,
+              111
+            ],
+            "probability": 0.47357482369989157
+          },
+          {
+            "word": "光",
+            "start": 0.58,
+            "end": 0.94,
+            "tokens": [
+              20690
+            ],
+            "probability": 0.9874516129493713
+          },
+          {
+            "word": "晒",
+            "start": 0.94,
+            "end": 1.4,
+            "tokens": [
+              5094,
+              240
+            ],
+            "probability": 0.6627308428287506
+          },
+          {
+            "word": "暖",
+            "start": 1.4,
+            "end": 1.94,
+            "tokens": [
+              23826,
+              244
+            ],
+            "probability": 0.21096518822014332
+          },
+          {
+            "word": "了",
+            "start": 1.94,
+            "end": 2.24,
+            "tokens": [
+              2289
+            ],
+            "probability": 0.05826742947101593
+          },
+          {
+            "word": "棉",
+            "start": 2.24,
+            "end": 2.42,
+            "tokens": [
+              16407,
+              231
+            ],
+            "probability": 0.5013646620791405
+          },
+          {
+            "word": "被",
+            "start": 2.42,
+            "end": 2.88,
+            "tokens": [
+              23238
+            ],
+            "probability": 0.3803628385066986
+          }
+        ]
+      }
+    ]
+  },
+  "regroup_history": "isp=1_cm=2.5+++0_sp=.* /。/?/？+0+0++++1_sg=0.5+0+0+1_sp=,* /，+0+0++50++1_sl=70++1+0+0+0+0+1_cm=2.5+++0",
+  "nonspeech_sections": []
+}

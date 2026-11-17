@@ -1,0 +1,335 @@
+{
+  "text": " 一 下 午 的 时 间 够 我 慢 慢 体 会",
+  "segments": [
+    {
+      "start": 192.66,
+      "end": 195.48,
+      "text": " 一 下 午 的 时 间 够 我 慢 慢 体 会",
+      "seek": null,
+      "tokens": [
+        26923,
+        220,
+        4438,
+        220,
+        44237,
+        27949,
+        220,
+        15729,
+        220,
+        31685,
+        220,
+        1787,
+        253,
+        8624,
+        220,
+        20645,
+        220,
+        20645,
+        220,
+        29485,
+        220,
+        12949
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 一",
+          "start": 192.66,
+          "end": 192.8,
+          "probability": 0.00017505990399513394,
+          "tokens": [
+            26923
+          ]
+        },
+        {
+          "word": " 下",
+          "start": 192.88,
+          "end": 193.04,
+          "probability": 0.04688958078622818,
+          "tokens": [
+            220,
+            4438
+          ]
+        },
+        {
+          "word": " 午",
+          "start": 193.3,
+          "end": 193.32,
+          "probability": 0.0024532307870686054,
+          "tokens": [
+            220,
+            44237
+          ]
+        },
+        {
+          "word": " 的",
+          "start": 193.32,
+          "end": 193.4,
+          "probability": 0.5727904438972473,
+          "tokens": [
+            27949
+          ]
+        },
+        {
+          "word": " 时",
+          "start": 193.7,
+          "end": 193.7,
+          "probability": 0.00360589986667037,
+          "tokens": [
+            220,
+            15729
+          ]
+        },
+        {
+          "word": " 间",
+          "start": 194.0,
+          "end": 194.1,
+          "probability": 0.059370122849941254,
+          "tokens": [
+            220,
+            31685
+          ]
+        },
+        {
+          "word": " 够",
+          "start": 194.26,
+          "end": 194.32,
+          "probability": 0.7939712107181549,
+          "tokens": [
+            220,
+            1787,
+            253
+          ]
+        },
+        {
+          "word": " 我",
+          "start": 194.32,
+          "end": 194.56,
+          "probability": 0.8281003832817078,
+          "tokens": [
+            8624
+          ]
+        },
+        {
+          "word": " 慢",
+          "start": 194.62,
+          "end": 194.76,
+          "probability": 0.0002978936827275902,
+          "tokens": [
+            220,
+            20645
+          ]
+        },
+        {
+          "word": " 慢",
+          "start": 194.9,
+          "end": 194.94,
+          "probability": 0.9062575697898865,
+          "tokens": [
+            220,
+            20645
+          ]
+        },
+        {
+          "word": " 体",
+          "start": 194.98,
+          "end": 195.14,
+          "probability": 0.6546657681465149,
+          "tokens": [
+            220,
+            29485
+          ]
+        },
+        {
+          "word": " 会",
+          "start": 195.2,
+          "end": 195.48,
+          "probability": 0.4253678023815155,
+          "tokens": [
+            220,
+            12949
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "text": " 一 下 午 的 时 间 够 我 慢 慢 体 会",
+    "segments": [
+      {
+        "start": 0.16,
+        "end": 2.98,
+        "text": " 一 下 午 的 时 间 够 我 慢 慢 体 会",
+        "seek": null,
+        "tokens": [
+          26923,
+          220,
+          4438,
+          220,
+          44237,
+          27949,
+          220,
+          15729,
+          220,
+          31685,
+          220,
+          1787,
+          253,
+          8624,
+          220,
+          20645,
+          220,
+          20645,
+          220,
+          29485,
+          220,
+          12949
+        ],
+        "temperature": null,
+        "avg_logprob": null,
+        "compression_ratio": null,
+        "no_speech_prob": null,
+        "words": [
+          {
+            "word": " 一",
+            "start": 0.16,
+            "end": 0.3,
+            "probability": 0.00017505990399513394,
+            "tokens": [
+              26923
+            ]
+          },
+          {
+            "word": " 下",
+            "start": 0.38,
+            "end": 0.54,
+            "probability": 0.04688958078622818,
+            "tokens": [
+              220,
+              4438
+            ]
+          },
+          {
+            "word": " 午",
+            "start": 0.8,
+            "end": 0.82,
+            "probability": 0.0024532307870686054,
+            "tokens": [
+              220,
+              44237
+            ]
+          },
+          {
+            "word": " 的",
+            "start": 0.82,
+            "end": 0.9,
+            "probability": 0.5727904438972473,
+            "tokens": [
+              27949
+            ]
+          },
+          {
+            "word": " 时",
+            "start": 1.2,
+            "end": 1.2,
+            "probability": 0.00360589986667037,
+            "tokens": [
+              220,
+              15729
+            ]
+          },
+          {
+            "word": " 间",
+            "start": 1.5,
+            "end": 1.6,
+            "probability": 0.059370122849941254,
+            "tokens": [
+              220,
+              31685
+            ]
+          },
+          {
+            "word": " 够",
+            "start": 1.76,
+            "end": 1.82,
+            "probability": 0.7939712107181549,
+            "tokens": [
+              220,
+              1787,
+              253
+            ]
+          },
+          {
+            "word": " 我",
+            "start": 1.82,
+            "end": 2.06,
+            "probability": 0.8281003832817078,
+            "tokens": [
+              8624
+            ]
+          },
+          {
+            "word": " 慢",
+            "start": 2.12,
+            "end": 2.26,
+            "probability": 0.0002978936827275902,
+            "tokens": [
+              220,
+              20645
+            ]
+          },
+          {
+            "word": " 慢",
+            "start": 2.4,
+            "end": 2.44,
+            "probability": 0.9062575697898865,
+            "tokens": [
+              220,
+              20645
+            ]
+          },
+          {
+            "word": " 体",
+            "start": 2.48,
+            "end": 2.64,
+            "probability": 0.6546657681465149,
+            "tokens": [
+              220,
+              29485
+            ]
+          },
+          {
+            "word": " 会",
+            "start": 2.7,
+            "end": 2.98,
+            "probability": 0.4253678023815155,
+            "tokens": [
+              220,
+              12949
+            ]
+          }
+        ]
+      }
+    ],
+    "language": null,
+    "ori_dict": {},
+    "regroup_history": "",
+    "nonspeech_sections": [
+      {
+        "start": 0.0,
+        "end": 0.16
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": [
+    {
+      "start": 0.0,
+      "end": 0.16
+    }
+  ]
+}

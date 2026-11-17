@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>阳光晒暖了被 · Petalwake 3D MV Studio</title>
+  <link rel="icon" href="data:," />
+  <link rel="stylesheet" href="./mv_sunshine/styles/tokens.css" />
+  <link rel="stylesheet" href="./mv_sunshine/styles/layout.css" />
+  <link rel="stylesheet" href="./mv_sunshine/styles/controls.css" />
+  <link rel="stylesheet" href="./mv_sunshine/styles/components/lyric-fonts.css" />
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "./vendor/three/build/three.module.js",
+      "three/addons/": "./vendor/three/examples/jsm/",
+      "@pixiv/three-vrm": "./vendor/three-vrm/three-vrm.module.js",
+      "@pixiv/three-vrm-animation": "./vendor/three-vrm/three-vrm-animation.module.js"
+    }
+  }
+  </script>
+</head>
+<body class="preview-mode">
+  <div id="mv-stage">
+    <canvas id="view"></canvas>
+    <canvas id="overlay"></canvas>
+    <div id="boot-banner">正在唤醒午后海岛与阳光…</div>
+  </div>
+  <script type="module" src="./mv_sunshine/main_mv.js"></script>
+</body>
+</html>

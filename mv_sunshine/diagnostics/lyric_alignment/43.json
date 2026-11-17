@@ -1,0 +1,146 @@
+{
+  "text": " 水 还 剩 半 杯",
+  "segments": [
+    {
+      "start": 205.62,
+      "end": 207.8,
+      "text": " 水 还 剩 半 杯",
+      "seek": null,
+      "tokens": [
+        220,
+        15590,
+        220,
+        14852,
+        220,
+        5935,
+        102,
+        220,
+        30018,
+        220,
+        45458
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 水",
+          "start": 205.62,
+          "end": 205.62,
+          "probability": 0.004697742871940136,
+          "tokens": [
+            220,
+            15590
+          ]
+        },
+        {
+          "word": " 还",
+          "start": 206.04,
+          "end": 206.28,
+          "probability": 0.0014306927332654595,
+          "tokens": [
+            220,
+            14852
+          ]
+        },
+        {
+          "word": " 剩",
+          "start": 206.86,
+          "end": 207.12,
+          "probability": 0.008348084578756243,
+          "tokens": [
+            220,
+            5935,
+            102
+          ]
+        },
+        {
+          "word": " 半",
+          "start": 207.12,
+          "end": 207.12,
+          "probability": 0.00010963714885292575,
+          "tokens": [
+            220,
+            30018
+          ]
+        },
+        {
+          "word": " 杯",
+          "start": 207.68,
+          "end": 207.8,
+          "probability": 0.00010680011473596096,
+          "tokens": [
+            220,
+            45458
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "segments": [
+      {
+        "start": 0.38,
+        "end": 2.56,
+        "text": " 水 还 剩 半 杯",
+        "words": [
+          {
+            "word": " 水",
+            "start": 0.38,
+            "end": 0.38,
+            "tokens": [
+              220,
+              15590
+            ],
+            "probability": 0.004697742871940136
+          },
+          {
+            "word": " 还",
+            "start": 0.8,
+            "end": 1.04,
+            "tokens": [
+              220,
+              14852
+            ],
+            "probability": 0.0014306927332654595
+          },
+          {
+            "word": " 剩",
+            "start": 1.62,
+            "end": 1.88,
+            "tokens": [
+              220,
+              5935,
+              102
+            ],
+            "probability": 0.008348084578756243
+          },
+          {
+            "word": " 半",
+            "start": 1.88,
+            "end": 1.88,
+            "tokens": [
+              220,
+              30018
+            ],
+            "probability": 0.00010963714885292575
+          },
+          {
+            "word": " 杯",
+            "start": 2.44,
+            "end": 2.56,
+            "tokens": [
+              220,
+              45458
+            ],
+            "probability": 0.00010680011473596096
+          }
+        ]
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": []
+}

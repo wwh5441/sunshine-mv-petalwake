@@ -1,0 +1,331 @@
+{
+  "text": " 时 针 走 到 十 二 水 刚 烧 到 沸",
+  "segments": [
+    {
+      "start": 15.62,
+      "end": 18.12,
+      "text": " 时 针 走 到 十 二 水 刚 烧 到 沸",
+      "seek": null,
+      "tokens": [
+        220,
+        15729,
+        220,
+        25153,
+        230,
+        220,
+        9575,
+        220,
+        4511,
+        220,
+        20145,
+        220,
+        11217,
+        220,
+        15590,
+        220,
+        49160,
+        220,
+        23661,
+        100,
+        220,
+        4511,
+        220,
+        3308,
+        116
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 时",
+          "start": 15.62,
+          "end": 15.7,
+          "probability": 0.07434466481208801,
+          "tokens": [
+            220,
+            15729
+          ]
+        },
+        {
+          "word": " 针",
+          "start": 15.78,
+          "end": 15.9,
+          "probability": 0.5009209658019245,
+          "tokens": [
+            220,
+            25153,
+            230
+          ]
+        },
+        {
+          "word": " 走",
+          "start": 16.04,
+          "end": 16.12,
+          "probability": 0.9247362613677979,
+          "tokens": [
+            220,
+            9575
+          ]
+        },
+        {
+          "word": " 到",
+          "start": 16.22,
+          "end": 16.28,
+          "probability": 0.06277976930141449,
+          "tokens": [
+            220,
+            4511
+          ]
+        },
+        {
+          "word": " 十",
+          "start": 16.52,
+          "end": 16.58,
+          "probability": 0.20401082932949066,
+          "tokens": [
+            220,
+            20145
+          ]
+        },
+        {
+          "word": " 二",
+          "start": 16.66,
+          "end": 16.72,
+          "probability": 0.7907220125198364,
+          "tokens": [
+            220,
+            11217
+          ]
+        },
+        {
+          "word": " 水",
+          "start": 16.84,
+          "end": 16.96,
+          "probability": 0.7011841535568237,
+          "tokens": [
+            220,
+            15590
+          ]
+        },
+        {
+          "word": " 刚",
+          "start": 17.08,
+          "end": 17.14,
+          "probability": 0.014905940741300583,
+          "tokens": [
+            220,
+            49160
+          ]
+        },
+        {
+          "word": " 烧",
+          "start": 17.3,
+          "end": 17.4,
+          "probability": 0.5148508585989475,
+          "tokens": [
+            220,
+            23661,
+            100
+          ]
+        },
+        {
+          "word": " 到",
+          "start": 17.54,
+          "end": 17.66,
+          "probability": 0.6889354586601257,
+          "tokens": [
+            220,
+            4511
+          ]
+        },
+        {
+          "word": " 沸",
+          "start": 18.0,
+          "end": 18.12,
+          "probability": 0.32243453129194677,
+          "tokens": [
+            220,
+            3308,
+            116
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "text": " 时 针 走 到 十 二 水 刚 烧 到 沸",
+    "segments": [
+      {
+        "start": 0.32,
+        "end": 2.82,
+        "text": " 时 针 走 到 十 二 水 刚 烧 到 沸",
+        "seek": null,
+        "tokens": [
+          220,
+          15729,
+          220,
+          25153,
+          230,
+          220,
+          9575,
+          220,
+          4511,
+          220,
+          20145,
+          220,
+          11217,
+          220,
+          15590,
+          220,
+          49160,
+          220,
+          23661,
+          100,
+          220,
+          4511,
+          220,
+          3308,
+          116
+        ],
+        "temperature": null,
+        "avg_logprob": null,
+        "compression_ratio": null,
+        "no_speech_prob": null,
+        "words": [
+          {
+            "word": " 时",
+            "start": 0.32,
+            "end": 0.4,
+            "probability": 0.07434466481208801,
+            "tokens": [
+              220,
+              15729
+            ]
+          },
+          {
+            "word": " 针",
+            "start": 0.48,
+            "end": 0.6,
+            "probability": 0.5009209658019245,
+            "tokens": [
+              220,
+              25153,
+              230
+            ]
+          },
+          {
+            "word": " 走",
+            "start": 0.74,
+            "end": 0.82,
+            "probability": 0.9247362613677979,
+            "tokens": [
+              220,
+              9575
+            ]
+          },
+          {
+            "word": " 到",
+            "start": 0.92,
+            "end": 0.98,
+            "probability": 0.06277976930141449,
+            "tokens": [
+              220,
+              4511
+            ]
+          },
+          {
+            "word": " 十",
+            "start": 1.22,
+            "end": 1.28,
+            "probability": 0.20401082932949066,
+            "tokens": [
+              220,
+              20145
+            ]
+          },
+          {
+            "word": " 二",
+            "start": 1.36,
+            "end": 1.42,
+            "probability": 0.7907220125198364,
+            "tokens": [
+              220,
+              11217
+            ]
+          },
+          {
+            "word": " 水",
+            "start": 1.54,
+            "end": 1.66,
+            "probability": 0.7011841535568237,
+            "tokens": [
+              220,
+              15590
+            ]
+          },
+          {
+            "word": " 刚",
+            "start": 1.78,
+            "end": 1.84,
+            "probability": 0.014905940741300583,
+            "tokens": [
+              220,
+              49160
+            ]
+          },
+          {
+            "word": " 烧",
+            "start": 2.0,
+            "end": 2.1,
+            "probability": 0.5148508585989475,
+            "tokens": [
+              220,
+              23661,
+              100
+            ]
+          },
+          {
+            "word": " 到",
+            "start": 2.24,
+            "end": 2.36,
+            "probability": 0.6889354586601257,
+            "tokens": [
+              220,
+              4511
+            ]
+          },
+          {
+            "word": " 沸",
+            "start": 2.7,
+            "end": 2.82,
+            "probability": 0.32243453129194677,
+            "tokens": [
+              220,
+              3308,
+              116
+            ]
+          }
+        ]
+      }
+    ],
+    "language": null,
+    "ori_dict": {},
+    "regroup_history": "",
+    "nonspeech_sections": [
+      {
+        "start": 2.58,
+        "end": 2.62
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": [
+    {
+      "start": 2.58,
+      "end": 2.62
+    }
+  ]
+}

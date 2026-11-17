@@ -1,0 +1,347 @@
+{
+  "text": " 翻 开 书 才 发 现 书 签 在 上 一 回",
+  "segments": [
+    {
+      "start": 22.26,
+      "end": 24.94,
+      "text": " 翻 开 书 才 发 现 书 签 在 上 一 回",
+      "seek": null,
+      "tokens": [
+        220,
+        42716,
+        220,
+        18937,
+        220,
+        2930,
+        99,
+        220,
+        18888,
+        220,
+        28926,
+        220,
+        20204,
+        220,
+        2930,
+        99,
+        220,
+        7973,
+        122,
+        37286,
+        220,
+        5708,
+        26923,
+        220,
+        8350
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 翻",
+          "start": 22.26,
+          "end": 22.36,
+          "probability": 0.8304868340492249,
+          "tokens": [
+            220,
+            42716
+          ]
+        },
+        {
+          "word": " 开",
+          "start": 22.46,
+          "end": 22.58,
+          "probability": 0.23742491006851196,
+          "tokens": [
+            220,
+            18937
+          ]
+        },
+        {
+          "word": " 书",
+          "start": 22.7,
+          "end": 22.78,
+          "probability": 0.6343287527561188,
+          "tokens": [
+            220,
+            2930,
+            99
+          ]
+        },
+        {
+          "word": " 才",
+          "start": 22.88,
+          "end": 22.96,
+          "probability": 0.5799440145492554,
+          "tokens": [
+            220,
+            18888
+          ]
+        },
+        {
+          "word": " 发",
+          "start": 23.14,
+          "end": 23.2,
+          "probability": 0.982484757900238,
+          "tokens": [
+            220,
+            28926
+          ]
+        },
+        {
+          "word": " 现",
+          "start": 23.42,
+          "end": 23.52,
+          "probability": 0.4618816077709198,
+          "tokens": [
+            220,
+            20204
+          ]
+        },
+        {
+          "word": " 书",
+          "start": 23.86,
+          "end": 23.9,
+          "probability": 0.9469509422779083,
+          "tokens": [
+            220,
+            2930,
+            99
+          ]
+        },
+        {
+          "word": " 签",
+          "start": 23.98,
+          "end": 24.08,
+          "probability": 0.4546997742727399,
+          "tokens": [
+            220,
+            7973,
+            122
+          ]
+        },
+        {
+          "word": " 在",
+          "start": 24.08,
+          "end": 24.3,
+          "probability": 0.03382562845945358,
+          "tokens": [
+            37286
+          ]
+        },
+        {
+          "word": " 上",
+          "start": 24.42,
+          "end": 24.54,
+          "probability": 0.9102838635444641,
+          "tokens": [
+            220,
+            5708
+          ]
+        },
+        {
+          "word": " 一",
+          "start": 24.54,
+          "end": 24.78,
+          "probability": 0.6095353960990906,
+          "tokens": [
+            26923
+          ]
+        },
+        {
+          "word": " 回",
+          "start": 24.86,
+          "end": 24.94,
+          "probability": 0.8352041244506836,
+          "tokens": [
+            220,
+            8350
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "text": " 翻 开 书 才 发 现 书 签 在 上 一 回",
+    "segments": [
+      {
+        "start": 0.14,
+        "end": 2.82,
+        "text": " 翻 开 书 才 发 现 书 签 在 上 一 回",
+        "seek": null,
+        "tokens": [
+          220,
+          42716,
+          220,
+          18937,
+          220,
+          2930,
+          99,
+          220,
+          18888,
+          220,
+          28926,
+          220,
+          20204,
+          220,
+          2930,
+          99,
+          220,
+          7973,
+          122,
+          37286,
+          220,
+          5708,
+          26923,
+          220,
+          8350
+        ],
+        "temperature": null,
+        "avg_logprob": null,
+        "compression_ratio": null,
+        "no_speech_prob": null,
+        "words": [
+          {
+            "word": " 翻",
+            "start": 0.14,
+            "end": 0.24,
+            "probability": 0.8304868340492249,
+            "tokens": [
+              220,
+              42716
+            ]
+          },
+          {
+            "word": " 开",
+            "start": 0.34,
+            "end": 0.46,
+            "probability": 0.23742491006851196,
+            "tokens": [
+              220,
+              18937
+            ]
+          },
+          {
+            "word": " 书",
+            "start": 0.58,
+            "end": 0.66,
+            "probability": 0.6343287527561188,
+            "tokens": [
+              220,
+              2930,
+              99
+            ]
+          },
+          {
+            "word": " 才",
+            "start": 0.76,
+            "end": 0.84,
+            "probability": 0.5799440145492554,
+            "tokens": [
+              220,
+              18888
+            ]
+          },
+          {
+            "word": " 发",
+            "start": 1.02,
+            "end": 1.08,
+            "probability": 0.982484757900238,
+            "tokens": [
+              220,
+              28926
+            ]
+          },
+          {
+            "word": " 现",
+            "start": 1.3,
+            "end": 1.4,
+            "probability": 0.4618816077709198,
+            "tokens": [
+              220,
+              20204
+            ]
+          },
+          {
+            "word": " 书",
+            "start": 1.74,
+            "end": 1.78,
+            "probability": 0.9469509422779083,
+            "tokens": [
+              220,
+              2930,
+              99
+            ]
+          },
+          {
+            "word": " 签",
+            "start": 1.86,
+            "end": 1.96,
+            "probability": 0.4546997742727399,
+            "tokens": [
+              220,
+              7973,
+              122
+            ]
+          },
+          {
+            "word": " 在",
+            "start": 1.96,
+            "end": 2.18,
+            "probability": 0.03382562845945358,
+            "tokens": [
+              37286
+            ]
+          },
+          {
+            "word": " 上",
+            "start": 2.3,
+            "end": 2.42,
+            "probability": 0.9102838635444641,
+            "tokens": [
+              220,
+              5708
+            ]
+          },
+          {
+            "word": " 一",
+            "start": 2.42,
+            "end": 2.66,
+            "probability": 0.6095353960990906,
+            "tokens": [
+              26923
+            ]
+          },
+          {
+            "word": " 回",
+            "start": 2.74,
+            "end": 2.82,
+            "probability": 0.8352041244506836,
+            "tokens": [
+              220,
+              8350
+            ]
+          }
+        ]
+      }
+    ],
+    "language": null,
+    "ori_dict": {},
+    "regroup_history": "",
+    "nonspeech_sections": [
+      {
+        "start": 0.0,
+        "end": 0.12
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": [
+    {
+      "start": 0.0,
+      "end": 0.12
+    }
+  ]
+}

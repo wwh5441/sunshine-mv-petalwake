@@ -273,16 +273,16 @@ export class Rider {
   }
 
   /** Render the rider's depth from the sun and publish the matrix the world shaders use. */
-  renderShadow(reversed) {
-    const cam = this.shadowCam, s = U.uSunDir.value, p = this.group.position;
+  renderShadow(reversed, subject = this.group) {
+    const cam = this.shadowCam, s = U.uSunDir.value, p = subject.position;
     cam.position.copy(p).addScaledVector(s, 30);
     cam.up.set(0, 1, 0);
     cam.lookAt(p);
     cam.updateMatrixWorld();
     const r = this.renderer;
     // draw only the rider, with a depth-only material
-    const parent = this.group.parent;
-    this.shadowScene.add(this.group);
+    const parent = subject.parent;
+    this.shadowScene.add(subject);
     this.shadowScene.overrideMaterial = this.depthMat;
     const prev = r.shadowMap.enabled;
     r.shadowMap.enabled = false;
@@ -291,7 +291,7 @@ export class Rider {
     r.setRenderTarget(null);
     r.shadowMap.enabled = prev;
     this.shadowScene.overrideMaterial = null;
-    if (parent) parent.add(this.group);
+    if (parent) parent.add(subject);
     // world -> shadow uv + standard depth (0 near .. 1 far), independent of the depth convention
     const view = cam.matrixWorldInverse;
     const e = SHADOW_EXTENT, n = cam.near, f = cam.far;

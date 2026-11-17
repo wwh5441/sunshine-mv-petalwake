@@ -1,0 +1,9 @@
+{
+  "source": "https://3dassets.dev/assets/birds-and-flying-creatures-brown-pelican-71566bf2",
+  "model": "https://cdn.3dassets.dev/assets/20605/v1/model.glb",
+  "license": "CC0-1.0",
+  "bytes": 180164,
+  "sha256": "9968a58cbf5021f8b350a6876cfa3199cc2b46da6c7068852d0c9b3754d7958a",
+  "sourceAIUsed": true,
+  "sourceDescription": "Existing static GLB; cycling limbs and bicycle linkage added locally on 2026-11-17."
+}

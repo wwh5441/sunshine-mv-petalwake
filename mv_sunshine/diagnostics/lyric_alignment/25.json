@@ -1,0 +1,239 @@
+{
+  "text": " 阳 光 晒 暖 了 棉 被",
+  "segments": [
+    {
+      "start": 126.96,
+      "end": 129.44,
+      "text": " 阳 光 晒 暖 了 棉 被",
+      "seek": null,
+      "tokens": [
+        220,
+        10034,
+        111,
+        220,
+        20690,
+        220,
+        5094,
+        240,
+        220,
+        23826,
+        244,
+        220,
+        2289,
+        220,
+        16407,
+        231,
+        220,
+        23238
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 阳",
+          "start": 126.96,
+          "end": 127.08,
+          "probability": 0.6551726311445236,
+          "tokens": [
+            220,
+            10034,
+            111
+          ]
+        },
+        {
+          "word": " 光",
+          "start": 127.26,
+          "end": 127.44,
+          "probability": 0.0587218701839447,
+          "tokens": [
+            220,
+            20690
+          ]
+        },
+        {
+          "word": " 晒",
+          "start": 127.76,
+          "end": 127.92,
+          "probability": 0.6104832589626312,
+          "tokens": [
+            220,
+            5094,
+            240
+          ]
+        },
+        {
+          "word": " 暖",
+          "start": 128.26,
+          "end": 128.36,
+          "probability": 0.4088501646183431,
+          "tokens": [
+            220,
+            23826,
+            244
+          ]
+        },
+        {
+          "word": " 了",
+          "start": 128.84,
+          "end": 128.9,
+          "probability": 0.0012585797812789679,
+          "tokens": [
+            220,
+            2289
+          ]
+        },
+        {
+          "word": " 棉",
+          "start": 128.98,
+          "end": 128.98,
+          "probability": 0.3136975553352386,
+          "tokens": [
+            220,
+            16407,
+            231
+          ]
+        },
+        {
+          "word": " 被",
+          "start": 129.24,
+          "end": 129.44,
+          "probability": 0.041394803673028946,
+          "tokens": [
+            220,
+            23238
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "text": " 阳 光 晒 暖 了 棉 被",
+    "segments": [
+      {
+        "start": 0.32,
+        "end": 2.8,
+        "text": " 阳 光 晒 暖 了 棉 被",
+        "seek": null,
+        "tokens": [
+          220,
+          10034,
+          111,
+          220,
+          20690,
+          220,
+          5094,
+          240,
+          220,
+          23826,
+          244,
+          220,
+          2289,
+          220,
+          16407,
+          231,
+          220,
+          23238
+        ],
+        "temperature": null,
+        "avg_logprob": null,
+        "compression_ratio": null,
+        "no_speech_prob": null,
+        "words": [
+          {
+            "word": " 阳",
+            "start": 0.32,
+            "end": 0.44,
+            "probability": 0.6551726311445236,
+            "tokens": [
+              220,
+              10034,
+              111
+            ]
+          },
+          {
+            "word": " 光",
+            "start": 0.62,
+            "end": 0.8,
+            "probability": 0.0587218701839447,
+            "tokens": [
+              220,
+              20690
+            ]
+          },
+          {
+            "word": " 晒",
+            "start": 1.12,
+            "end": 1.28,
+            "probability": 0.6104832589626312,
+            "tokens": [
+              220,
+              5094,
+              240
+            ]
+          },
+          {
+            "word": " 暖",
+            "start": 1.62,
+            "end": 1.72,
+            "probability": 0.4088501646183431,
+            "tokens": [
+              220,
+              23826,
+              244
+            ]
+          },
+          {
+            "word": " 了",
+            "start": 2.2,
+            "end": 2.26,
+            "probability": 0.0012585797812789679,
+            "tokens": [
+              220,
+              2289
+            ]
+          },
+          {
+            "word": " 棉",
+            "start": 2.34,
+            "end": 2.34,
+            "probability": 0.3136975553352386,
+            "tokens": [
+              220,
+              16407,
+              231
+            ]
+          },
+          {
+            "word": " 被",
+            "start": 2.6,
+            "end": 2.8,
+            "probability": 0.041394803673028946,
+            "tokens": [
+              220,
+              23238
+            ]
+          }
+        ]
+      }
+    ],
+    "language": null,
+    "ori_dict": {},
+    "regroup_history": "",
+    "nonspeech_sections": [
+      {
+        "start": 0.0,
+        "end": 0.12
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": [
+    {
+      "start": 0.0,
+      "end": 0.12
+    }
+  ]
+}

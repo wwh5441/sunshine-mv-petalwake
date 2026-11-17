@@ -1,0 +1,978 @@
+{
+  "date": "2026-11-17",
+  "revision": "scene-aware-tencent-type-v8",
+  "shots": {
+    "IMG-04": {
+      "sceneTitle": "经典飞行·骑扫帚掠过海湾引入小镇",
+      "mode": "fly_world",
+      "rider": {
+        "from": [
+          -220,
+          34,
+          1150
+        ],
+        "to": [
+          -130,
+          40,
+          1095
+        ],
+        "rollDeg": -5,
+        "quiet": false
+      },
+      "camera": {
+        "type": "chase_custom",
+        "back": 10,
+        "right": 8,
+        "up": 3.2,
+        "lookAhead": 0,
+        "lookUp": 0.35,
+        "fov": 52,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      },
+      "composition": "flight"
+    },
+    "IMG-18": {
+      "sceneTitle": "观海全身·在露台目送飞鸟入海",
+      "composition": "wide",
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -55.36,
+          23.7,
+          1024.75
+        ],
+        "angleFromDeg": 77,
+        "angleToDeg": 98,
+        "radiusFrom": 4.8,
+        "radiusTo": 5.6,
+        "heightFrom": 0.7,
+        "heightTo": 1.4,
+        "fov": 50,
+        "sway": 0.004
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.004
+      }
+    },
+    "IMG-24": {
+      "sceneTitle": "书院远景·书桌、花海与海湾同框",
+      "composition": "wide",
+      "camera": {
+        "type": "world_lerp",
+        "from": [
+          5,
+          37,
+          962
+        ],
+        "to": [
+          12,
+          40,
+          970
+        ],
+        "lookFrom": [
+          -2,
+          31,
+          952
+        ],
+        "lookTo": [
+          -2,
+          31,
+          952
+        ],
+        "fov": 54,
+        "sway": 0.005
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      }
+    },
+    "IMG-25": {
+      "sceneTitle": "花台全身·从人物慢慢拉开到露台",
+      "composition": "wide",
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -2.25,
+          31.42,
+          952.05
+        ],
+        "angleFromDeg": 228,
+        "angleToDeg": 240,
+        "radiusFrom": 4.5,
+        "radiusTo": 6.8,
+        "heightFrom": 0.5,
+        "heightTo": 1.3,
+        "fov": 50,
+        "sway": 0.004
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.003
+      }
+    },
+    "IMG-27": {
+      "sceneTitle": "间奏飞行一·贴海低飞驶向港湾",
+      "mode": "fly_world",
+      "rider": {
+        "from": [
+          -250,
+          10,
+          1220
+        ],
+        "to": [
+          -130,
+          20,
+          1135
+        ],
+        "rollDeg": -4,
+        "quiet": false
+      },
+      "camera": {
+        "type": "chase_custom",
+        "back": 6.2,
+        "right": 3,
+        "up": 1.6,
+        "lookAhead": 0,
+        "lookUp": 0.35,
+        "fov": 51,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      },
+      "composition": "flight"
+    },
+    "IMG-28": {
+      "sceneTitle": "间奏飞行二·升高俯瞰海港与钟楼",
+      "mode": "fly_world",
+      "rider": {
+        "from": [
+          -130,
+          20,
+          1135
+        ],
+        "to": [
+          -65,
+          50,
+          1015
+        ],
+        "rollDeg": 6,
+        "quiet": false
+      },
+      "camera": {
+        "type": "chase_custom",
+        "back": 24,
+        "right": -22,
+        "up": 17,
+        "lookAhead": 0,
+        "lookUp": 0.35,
+        "fov": 55,
+        "sway": 0.003,
+        "backTo": 31,
+        "upTo": 22
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      },
+      "composition": "flight"
+    },
+    "IMG-29": {
+      "sceneTitle": "间奏飞行三·侧前方迎风越过屋脊",
+      "mode": "fly_world",
+      "rider": {
+        "from": [
+          -65,
+          50,
+          1015
+        ],
+        "to": [
+          65,
+          65,
+          915
+        ],
+        "rollDeg": -5,
+        "quiet": false
+      },
+      "camera": {
+        "type": "chase_custom",
+        "back": -4.8,
+        "right": 4,
+        "up": 1.45,
+        "lookAhead": 0,
+        "lookUp": 0.25,
+        "fov": 49,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      },
+      "composition": "flight"
+    },
+    "IMG-33": {
+      "sceneTitle": "书院中景·困意袭来时望向海面",
+      "pose": "mocap_idle_warm",
+      "composition": "medium",
+      "camera": {
+        "type": "world_lerp",
+        "from": [
+          -5.7,
+          32.5,
+          948.1
+        ],
+        "to": [
+          -5,
+          32.3,
+          948.8
+        ],
+        "lookFrom": [
+          -2.25,
+          31.65,
+          952.05
+        ],
+        "lookTo": [
+          -2.25,
+          31.65,
+          952.05
+        ],
+        "fov": 48,
+        "sway": 0.004
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.008
+      }
+    },
+    "IMG-37": {
+      "sceneTitle": "书院侧景·在花海与书桌旁安静发呆",
+      "composition": "medium",
+      "camera": {
+        "type": "world_lerp",
+        "from": [
+          -6.5,
+          32.25,
+          947.6
+        ],
+        "to": [
+          -5.4,
+          32.15,
+          947.8
+        ],
+        "lookFrom": [
+          -2.25,
+          31.55,
+          952.05
+        ],
+        "lookTo": [
+          -2.25,
+          31.55,
+          952.05
+        ],
+        "fov": 48,
+        "sway": 0.004
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.008
+      }
+    },
+    "IMG-39": {
+      "sceneTitle": "海风中景·蜜金斜阳里的浅笑",
+      "composition": "medium",
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.99,
+          31.8,
+          974.35
+        ],
+        "angleFromDeg": 103,
+        "angleToDeg": 84,
+        "radiusFrom": 2.5,
+        "radiusTo": 2.8,
+        "heightFrom": 0.25,
+        "heightTo": 0.3,
+        "fov": 45,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.01
+      }
+    },
+    "IMG-42": {
+      "sceneTitle": "海崖远景·露台、摇椅与整片海湾",
+      "composition": "wide",
+      "camera": {
+        "type": "world_lerp",
+        "from": [
+          -27,
+          35,
+          989
+        ],
+        "to": [
+          -22,
+          37,
+          997
+        ],
+        "lookFrom": [
+          -37.65,
+          31.02,
+          971.9
+        ],
+        "lookTo": [
+          -37.65,
+          31.02,
+          971.9
+        ],
+        "fov": 54,
+        "sway": 0.004
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      }
+    },
+    "IMG-43": {
+      "sceneTitle": "海崖全身·面向镜头合眼享受晚风",
+      "pose": "mocap_relax",
+      "composition": "wide",
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.99,
+          31.65,
+          974.35
+        ],
+        "angleFromDeg": 250,
+        "angleToDeg": 260,
+        "radiusFrom": 5.5,
+        "radiusTo": 7,
+        "heightFrom": 1.25,
+        "heightTo": 1.9,
+        "fov": 48,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.002
+      },
+      "performance": {
+        "faceCamera": true
+      }
+    },
+    "IMG-44": {
+      "sceneTitle": "日影转移·从椅背抬升到花甸与海湾",
+      "composition": "wide",
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -55.36,
+          23.12,
+          1023.86
+        ],
+        "angleFromDeg": 118,
+        "angleToDeg": 102,
+        "radiusFrom": 4.8,
+        "radiusTo": 10,
+        "heightFrom": 1.8,
+        "heightTo": 5.5,
+        "lookLiftFrom": 0.2,
+        "lookLiftTo": 1.8,
+        "fov": 52,
+        "sway": 0.004
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.002
+      }
+    },
+    "IMG-46": {
+      "sceneTitle": "入梦拉远·合眼后镜头慢慢离开花台",
+      "composition": "medium-to-wide",
+      "camera": {
+        "type": "world_lerp",
+        "from": [
+          -4.5,
+          32.3,
+          949.7
+        ],
+        "to": [
+          -8.3,
+          34.5,
+          946
+        ],
+        "lookFrom": [
+          -2.25,
+          31.9,
+          952.05
+        ],
+        "lookTo": [
+          -2.25,
+          31.9,
+          952.05
+        ],
+        "fovFrom": 46,
+        "fovTo": 52,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.006
+      }
+    },
+    "IMG-47": {
+      "sceneTitle": "梦境远航·越过山脊望向流云",
+      "mode": "fly_world",
+      "rider": {
+        "from": [
+          550,
+          540,
+          80
+        ],
+        "to": [
+          690,
+          545,
+          -55
+        ],
+        "rollDeg": 5,
+        "quiet": false
+      },
+      "camera": {
+        "type": "chase_custom",
+        "back": 28,
+        "right": 27,
+        "up": 14,
+        "lookAhead": 0,
+        "lookUp": 0.35,
+        "fov": 56,
+        "sway": 0.003,
+        "backTo": 34,
+        "rightTo": 32,
+        "upTo": 20
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      },
+      "composition": "flight"
+    },
+    "IMG-48": {
+      "sceneTitle": "梦境飞行·骑扫帚穿行在山海之间",
+      "mode": "fly_world",
+      "rider": {
+        "from": [
+          690,
+          545,
+          -55
+        ],
+        "to": [
+          780,
+          550,
+          -170
+        ],
+        "rollDeg": -6,
+        "quiet": false
+      },
+      "camera": {
+        "type": "chase_custom",
+        "back": 7.5,
+        "right": -4,
+        "up": 1.8,
+        "lookAhead": 0,
+        "lookUp": 0.35,
+        "fov": 50,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      },
+      "composition": "flight"
+    },
+    "IMG-53": {
+      "sceneTitle": "暮色中景·凭栏静看暮金海湾",
+      "composition": "medium",
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.99,
+          31.7,
+          974.35
+        ],
+        "angleFromDeg": 88,
+        "angleToDeg": 102,
+        "radiusFrom": 2.7,
+        "radiusTo": 3.8,
+        "heightFrom": 0.25,
+        "heightTo": 0.7,
+        "fov": 47,
+        "sway": 0.004
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.006
+      }
+    },
+    "IMG-55": {
+      "sceneTitle": "尾奏远航·骑扫帚飞过暮色港口",
+      "mode": "fly_world",
+      "rider": {
+        "from": [
+          -220,
+          45,
+          1190
+        ],
+        "to": [
+          -340,
+          52,
+          1270
+        ],
+        "rollDeg": 4,
+        "quiet": false
+      },
+      "camera": {
+        "type": "chase_custom",
+        "back": -22,
+        "right": 20,
+        "up": 12,
+        "lookAhead": 0,
+        "lookUp": 0.35,
+        "fov": 55,
+        "sway": 0.003,
+        "backTo": -30,
+        "upTo": 18
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      },
+      "composition": "flight"
+    },
+    "IMG-56": {
+      "sceneTitle": "海岛远景·海港、群山与暮色海面",
+      "composition": "wide",
+      "camera": {
+        "type": "world_lerp",
+        "from": [
+          -360,
+          260,
+          1500
+        ],
+        "to": [
+          -500,
+          340,
+          1700
+        ],
+        "lookFrom": [
+          0,
+          80,
+          700
+        ],
+        "lookTo": [
+          0,
+          100,
+          580
+        ],
+        "fovFrom": 56,
+        "fovTo": 60,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      }
+    },
+    "IMG-08": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.379999999999995,
+          31.38,
+          976.5200000000001
+        ],
+        "angleFromDeg": 78,
+        "angleToDeg": 108,
+        "radiusFrom": 0.9,
+        "radiusTo": 0.76,
+        "heightFrom": 0.22,
+        "heightTo": 0.16,
+        "lookLiftFrom": -0.02,
+        "lookLiftTo": 0.02,
+        "fov": 40,
+        "sway": 0.003
+      }
+    },
+    "IMG-21": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.35,
+          31.2,
+          976.35
+        ],
+        "angleFromDeg": 58,
+        "angleToDeg": 64,
+        "radiusFrom": 2.9,
+        "radiusTo": 2.8,
+        "heightFrom": 1.4,
+        "heightTo": 1.3,
+        "fov": 55,
+        "sway": 0.002
+      },
+      "sceneTitle": "海崖茶席全景·桌脚落在阳台木地板内",
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.002
+      }
+    },
+    "IMG-38": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.32,
+          31.35,
+          976.3000000000001
+        ],
+        "angleFromDeg": 74,
+        "angleToDeg": 110,
+        "radiusFrom": 0.8,
+        "radiusTo": 0.68,
+        "heightFrom": 0.22,
+        "heightTo": 0.16,
+        "lookLiftFrom": -0.02,
+        "lookLiftTo": 0.02,
+        "fov": 38,
+        "sway": 0.003
+      }
+    },
+    "IMG-52": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.25,
+          31.32,
+          976.0400000000001
+        ],
+        "angleFromDeg": 82,
+        "angleToDeg": 108,
+        "radiusFrom": 0.58,
+        "radiusTo": 0.48,
+        "heightFrom": 0.15,
+        "heightTo": 0.11,
+        "lookLiftFrom": -0.01,
+        "lookLiftTo": 0.01,
+        "fov": 36,
+        "sway": 0.003
+      }
+    },
+    "IMG-11": {
+      "sceneTitle": "书院小桌·书本眼镜与阳台地板同框",
+      "composition": "medium",
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -1.8,
+          31.12,
+          952.8
+        ],
+        "angleFromDeg": 210,
+        "angleToDeg": 230,
+        "radiusFrom": 2.3,
+        "radiusTo": 2,
+        "heightFrom": 0.65,
+        "heightTo": 0.6,
+        "lookLift": 0,
+        "fov": 46,
+        "sway": 0.003
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      }
+    },
+    "IMG-30": {
+      "sceneTitle": "鹈鹕骑单车·踩着脚蹬经过阳光石板街",
+      "composition": "medium",
+      "camera": {
+        "type": "world_lerp",
+        "from": [
+          -105.2,
+          6.05,
+          1069.15
+        ],
+        "to": [
+          -94,
+          6.15,
+          1069.1
+        ],
+        "lookFrom": [
+          -106.5,
+          5.85,
+          1065.9
+        ],
+        "lookTo": [
+          -95.5,
+          5.9,
+          1065.9
+        ],
+        "fovFrom": 56,
+        "fovTo": 54,
+        "sway": 0.004
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.004
+      }
+    },
+    "IMG-06": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -2.25,
+          31.773999999999997,
+          952.05
+        ],
+        "angleFromDeg": 206,
+        "angleToDeg": 238,
+        "radiusFrom": 2.5,
+        "radiusTo": 2.3,
+        "heightFrom": 0.12,
+        "heightTo": 0.18,
+        "lookLiftFrom": 0,
+        "lookLiftTo": 0,
+        "fov": 44,
+        "sway": 0.004
+      },
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      }
+    },
+    "IMG-10": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -43.96,
+          18.89,
+          1071.43
+        ],
+        "angleFromDeg": -18,
+        "angleToDeg": 18,
+        "radiusFrom": 2.35,
+        "radiusTo": 2.2,
+        "heightFrom": 0.12,
+        "heightTo": 0.18,
+        "lookLiftFrom": 0,
+        "lookLiftTo": 0,
+        "fov": 44,
+        "sway": 0.004
+      },
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      }
+    },
+    "IMG-12": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -2.25,
+          31.764,
+          952.05
+        ],
+        "angleFromDeg": 208,
+        "angleToDeg": 238,
+        "radiusFrom": 2.4,
+        "radiusTo": 2.25,
+        "heightFrom": 0.12,
+        "heightTo": 0.18,
+        "lookLiftFrom": 0,
+        "lookLiftTo": 0,
+        "fov": 44,
+        "sway": 0.004
+      },
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      }
+    },
+    "IMG-20": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.99,
+          31.895999999999997,
+          974.35
+        ],
+        "angleFromDeg": 72,
+        "angleToDeg": 108,
+        "radiusFrom": 2.5,
+        "radiusTo": 2.35,
+        "heightFrom": 0.12,
+        "heightTo": 0.18,
+        "lookLiftFrom": 0,
+        "lookLiftTo": 0,
+        "fov": 44,
+        "sway": 0.004
+      },
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      }
+    },
+    "IMG-22": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -2.25,
+          31.764,
+          952.05
+        ],
+        "angleFromDeg": 236,
+        "angleToDeg": 208,
+        "radiusFrom": 2.6,
+        "radiusTo": 2.35,
+        "heightFrom": 0.12,
+        "heightTo": 0.18,
+        "lookLiftFrom": 0,
+        "lookLiftTo": 0,
+        "fov": 44,
+        "sway": 0.004
+      },
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      }
+    },
+    "IMG-26": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -37.99,
+          31.895999999999997,
+          974.35
+        ],
+        "angleFromDeg": 76,
+        "angleToDeg": 106,
+        "radiusFrom": 2.55,
+        "radiusTo": 2.4,
+        "heightFrom": 0.12,
+        "heightTo": 0.18,
+        "lookLiftFrom": 0,
+        "lookLiftTo": 0,
+        "fov": 44,
+        "sway": 0.004
+      },
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      }
+    },
+    "IMG-32": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -43.96,
+          18.87,
+          1071.43
+        ],
+        "angleFromDeg": -20,
+        "angleToDeg": 16,
+        "radiusFrom": 2.7,
+        "radiusTo": 2.45,
+        "heightFrom": 0.12,
+        "heightTo": 0.18,
+        "lookLiftFrom": 0,
+        "lookLiftTo": 0,
+        "fov": 45,
+        "sway": 0.005
+      },
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      }
+    },
+    "IMG-51": {
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [
+          -2.25,
+          31.84,
+          952.05
+        ],
+        "angleFromDeg": 219,
+        "angleToDeg": 232,
+        "radiusFrom": 3,
+        "radiusTo": 3.25,
+        "heightFrom": 0.08,
+        "heightTo": 0.12,
+        "fov": 46,
+        "sway": 0.002
+      },
+      "composition": "medium",
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0.005
+      },
+      "sceneTitle": "暮色海湾·伸展双臂迎着晚风醒来",
+      "rider": {
+        "pos": [
+          -2.25,
+          30.394,
+          952.05
+        ],
+        "yawDeg": 318
+      }
+    },
+    "IMG-14": {
+      "sceneTitle": "石板街俯瞰·沿空旷街道看向市集",
+      "camera": {
+        "type": "world_lerp",
+        "from": [
+          -111,
+          22,
+          1060.9
+        ],
+        "to": [
+          -103,
+          23,
+          1060.9
+        ],
+        "lookFrom": [
+          -105,
+          5.8,
+          1065.9
+        ],
+        "lookTo": [
+          -97,
+          5.8,
+          1065.9
+        ],
+        "fovFrom": 54,
+        "fovTo": 51,
+        "sway": 0.002
+      },
+      "dof": {
+        "focusDist": "auto",
+        "aperture": 0
+      }
+    }
+  }
+}

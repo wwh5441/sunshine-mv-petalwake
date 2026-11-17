@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-17",
+  "audio_sha256": "04e9a73bdece7855741274a004fed60fc769d57dcdba8f8407877bba108b2afd",
+  "lines": 44,
+  "characters": 479,
+  "short_core_spans": 52,
+  "zero_core_spans": 26,
+  "runtime_handling": "Distinct aligned character onsets drive vowel transitions; hold between neighbouring onsets, with the bandpassed soundtrack amplitude. Short/zero core spans remain marked, not claimed as exact phonemes.",
+  "audio_uploaded": false
+}

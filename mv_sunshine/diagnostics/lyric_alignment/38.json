@@ -1,0 +1,315 @@
+{
+  "text": " 我 在 梦 里 发 呆 风 轻 轻 吹",
+  "segments": [
+    {
+      "start": 185.22,
+      "end": 188.36,
+      "text": " 我 在 梦 里 发 呆 风 轻 轻 吹",
+      "seek": null,
+      "tokens": [
+        8624,
+        37286,
+        220,
+        19017,
+        99,
+        220,
+        15759,
+        220,
+        28926,
+        220,
+        3606,
+        228,
+        220,
+        47209,
+        220,
+        17819,
+        119,
+        220,
+        17819,
+        119,
+        220,
+        2392,
+        117
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 我",
+          "start": 185.22,
+          "end": 185.52,
+          "probability": 0.00022901227930560708,
+          "tokens": [
+            8624
+          ]
+        },
+        {
+          "word": " 在",
+          "start": 185.64,
+          "end": 185.76,
+          "probability": 0.0015111829852685332,
+          "tokens": [
+            37286
+          ]
+        },
+        {
+          "word": " 梦",
+          "start": 185.92,
+          "end": 186.0,
+          "probability": 0.5407404191792011,
+          "tokens": [
+            220,
+            19017,
+            99
+          ]
+        },
+        {
+          "word": " 里",
+          "start": 186.14,
+          "end": 186.2,
+          "probability": 0.8928560018539429,
+          "tokens": [
+            220,
+            15759
+          ]
+        },
+        {
+          "word": " 发",
+          "start": 186.48,
+          "end": 186.48,
+          "probability": 0.3600970506668091,
+          "tokens": [
+            220,
+            28926
+          ]
+        },
+        {
+          "word": " 呆",
+          "start": 186.56,
+          "end": 186.64,
+          "probability": 0.3804564841557294,
+          "tokens": [
+            220,
+            3606,
+            228
+          ]
+        },
+        {
+          "word": " 风",
+          "start": 186.82,
+          "end": 187.0,
+          "probability": 0.6033346652984619,
+          "tokens": [
+            220,
+            47209
+          ]
+        },
+        {
+          "word": " 轻",
+          "start": 187.54,
+          "end": 187.72,
+          "probability": 0.5657901465892792,
+          "tokens": [
+            220,
+            17819,
+            119
+          ]
+        },
+        {
+          "word": " 轻",
+          "start": 187.98,
+          "end": 187.98,
+          "probability": 0.9244122505187988,
+          "tokens": [
+            220,
+            17819,
+            119
+          ]
+        },
+        {
+          "word": " 吹",
+          "start": 188.24,
+          "end": 188.36,
+          "probability": 0.9842844009399414,
+          "tokens": [
+            220,
+            2392,
+            117
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "text": " 我 在 梦 里 发 呆 风 轻 轻 吹",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.14,
+        "text": " 我 在 梦 里 发 呆 风 轻 轻 吹",
+        "seek": null,
+        "tokens": [
+          8624,
+          37286,
+          220,
+          19017,
+          99,
+          220,
+          15759,
+          220,
+          28926,
+          220,
+          3606,
+          228,
+          220,
+          47209,
+          220,
+          17819,
+          119,
+          220,
+          17819,
+          119,
+          220,
+          2392,
+          117
+        ],
+        "temperature": null,
+        "avg_logprob": null,
+        "compression_ratio": null,
+        "no_speech_prob": null,
+        "words": [
+          {
+            "word": " 我",
+            "start": 0.0,
+            "end": 0.3,
+            "probability": 0.00022901227930560708,
+            "tokens": [
+              8624
+            ]
+          },
+          {
+            "word": " 在",
+            "start": 0.42,
+            "end": 0.54,
+            "probability": 0.0015111829852685332,
+            "tokens": [
+              37286
+            ]
+          },
+          {
+            "word": " 梦",
+            "start": 0.7,
+            "end": 0.78,
+            "probability": 0.5407404191792011,
+            "tokens": [
+              220,
+              19017,
+              99
+            ]
+          },
+          {
+            "word": " 里",
+            "start": 0.92,
+            "end": 0.98,
+            "probability": 0.8928560018539429,
+            "tokens": [
+              220,
+              15759
+            ]
+          },
+          {
+            "word": " 发",
+            "start": 1.26,
+            "end": 1.26,
+            "probability": 0.3600970506668091,
+            "tokens": [
+              220,
+              28926
+            ]
+          },
+          {
+            "word": " 呆",
+            "start": 1.34,
+            "end": 1.42,
+            "probability": 0.3804564841557294,
+            "tokens": [
+              220,
+              3606,
+              228
+            ]
+          },
+          {
+            "word": " 风",
+            "start": 1.6,
+            "end": 1.78,
+            "probability": 0.6033346652984619,
+            "tokens": [
+              220,
+              47209
+            ]
+          },
+          {
+            "word": " 轻",
+            "start": 2.32,
+            "end": 2.5,
+            "probability": 0.5657901465892792,
+            "tokens": [
+              220,
+              17819,
+              119
+            ]
+          },
+          {
+            "word": " 轻",
+            "start": 2.76,
+            "end": 2.76,
+            "probability": 0.9244122505187988,
+            "tokens": [
+              220,
+              17819,
+              119
+            ]
+          },
+          {
+            "word": " 吹",
+            "start": 3.02,
+            "end": 3.14,
+            "probability": 0.9842844009399414,
+            "tokens": [
+              220,
+              2392,
+              117
+            ]
+          }
+        ]
+      }
+    ],
+    "language": null,
+    "ori_dict": {},
+    "regroup_history": "",
+    "nonspeech_sections": [
+      {
+        "start": 0.3,
+        "end": 0.42
+      },
+      {
+        "start": 3.52,
+        "end": 3.54
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": [
+    {
+      "start": 0.3,
+      "end": 0.42
+    },
+    {
+      "start": 3.52,
+      "end": 3.54
+    }
+  ]
+}

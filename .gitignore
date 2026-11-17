@@ -14,3 +14,8 @@ art/
 .env
 .env.*
 .DS_Store
+
+# MV temporary renders, texture backups, and external audio symlink
+mv_sunshine/outputs/
+mv_sunshine/sunshine.mp3
+*.orig

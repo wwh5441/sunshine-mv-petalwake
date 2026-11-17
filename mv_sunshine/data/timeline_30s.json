@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "title": "阳光晒暖了被",
+    "artist": "Weckham",
+    "clipDuration": 32.40,
+    "fullDuration": 228.89,
+    "fps": 30,
+    "width": 720,
+    "height": 960
+  },
+  "titleCard": {
+    "start": 0.55,
+    "end": 4.85,
+    "title": "阳光晒暖了被"
+  },
+  "lyrics": [
+    {
+      "index": 1,
+      "start": 15.42,
+      "end": 18.25,
+      "text": "时针走到十二，水刚烧到沸"
+    },
+    {
+      "index": 2,
+      "start": 18.64,
+      "end": 21.80,
+      "text": "我从柜子里面，拿了常用的杯"
+    },
+    {
+      "index": 3,
+      "start": 22.24,
+      "end": 25.18,
+      "text": "翻开书才发现，书签在上一回"
+    },
+    {
+      "index": 4,
+      "start": 25.50,
+      "end": 28.92,
+      "text": "原来上次也是，读着读着就睡"
+    },
+    {
+      "index": 5,
+      "start": 29.20,
+      "end": 32.15,
+      "text": "阳台上的床单，被风推了又推"
+    }
+  ],
+  "shots": [
+    {
+      "id": "IMG-01",
+      "sceneTitle": "无人空镜·海港波光与摇曳渔船",
+      "lyricHint": "前奏 · 海湾碎金与水鸟",
+      "start": 0.00,
+      "end": 2.60,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-65.5, 2.35, 1155.5],
+        "to": [-50.5, 3.15, 1149.5],
+        "lookFrom": [-55.0, 4.8, 1132.0],
+        "lookTo": [-58.0, 7.5, 1118.0],
+        "fovFrom": 56,
+        "fovTo": 52,
+        "sway": 0.018
+      }
+    },
+    {
+      "id": "IMG-02",
+      "sceneTitle": "无人空镜·紫藤断桥与溪流瀑布",
+      "lyricHint": "前奏 · 溪桥紫藤随风轻晃",
+      "start": 2.60,
+      "end": 5.20,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-162.5, 117.6, -472.5],
+        "to": [-156.5, 118.4, -462.5],
+        "lookFrom": [-177.5, 115.6, -458.5],
+        "lookTo": [-179.5, 116.2, -457.5],
+        "fovFrom": 54,
+        "fovTo": 50,
+        "sway": 0.012
+      }
+    },
+    {
+      "id": "IMG-03",
+      "sceneTitle": "无人空镜·日晷草甸与逆光绒絮",
+      "lyricHint": "前奏 · 蒲公英绒球飘向暖阳",
+      "start": 5.20,
+      "end": 7.80,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-1235.5, 105.55, -365.5],
+        "to": [-1238.2, 106.25, -368.0],
+        "lookFrom": [-1243.5, 106.8, -373.5],
+        "lookTo": [-1244.5, 108.6, -376.5],
+        "fovFrom": 60,
+        "fovTo": 55,
+        "sway": 0.014
+      }
+    },
+    {
+      "id": "IMG-04",
+      "sceneTitle": "无人空镜·木栏麻雀蹦跳起飞",
+      "lyricHint": "前奏 · 麻雀理羽惊飞入花坡",
+      "start": 7.80,
+      "end": 10.40,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-62.05, 26.82, 579.25],
+        "to": [-62.65, 27.05, 578.05],
+        "lookFrom": [-63.65, 26.78, 576.20],
+        "lookTo": [-65.20, 28.45, 570.50],
+        "fovFrom": 46,
+        "fovTo": 50,
+        "sway": 0.008
+      }
+    },
+    {
+      "id": "IMG-05",
+      "sceneTitle": "无人空镜·午后广场喷泉与炊烟",
+      "lyricHint": "前奏 · 安静石板街与烘焙坊屋檐",
+      "start": 10.40,
+      "end": 13.00,
+      "mode": "unmanned",
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [-63.0, 6.4, 1052.0],
+        "angleFromDeg": -128,
+        "angleToDeg": -86,
+        "radiusFrom": 14.5,
+        "radiusTo": 12.2,
+        "heightFrom": 2.4,
+        "heightTo": 4.2,
+        "lookLiftFrom": 1.2,
+        "lookLiftTo": 3.4,
+        "fov": 54,
+        "sway": 0.010
+      }
+    },
+    {
+      "id": "IMG-06",
+      "sceneTitle": "露台漫步·Claude抱书沐浴暖阳",
+      "lyricHint": "前奏尾拍 · 怀抱书卷走上向阳露台",
+      "start": 13.00,
+      "end": 15.42,
+      "mode": "fly_world",
+      "pose": "stroll_garden",
+      "rider": {
+        "from": [-153.55, 12.70, 1059.55],
+        "to": [-151.75, 12.70, 1060.45],
+        "speed": 0.85,
+        "rollDeg": 0.0
+      },
+      "camera": {
+        "type": "world_lerp",
+        "from": [-150.35, 14.32, 1062.15],
+        "to": [-150.15, 14.22, 1061.75],
+        "lookFrom": [-153.20, 14.12, 1059.70],
+        "lookTo": [-151.85, 14.20, 1060.35],
+        "fovFrom": 46,
+        "fovTo": 43,
+        "sway": 0.006
+      }
+    },
+    {
+      "id": "IMG-07",
+      "sceneTitle": "无人特写·木挂钟走上正午十二点",
+      "lyricHint": "时针走到十二，",
+      "start": 15.42,
+      "end": 17.02,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-153.05, 13.92, 1058.92],
+        "to": [-153.18, 14.00, 1058.52],
+        "lookFrom": [-153.25, 13.94, 1057.62],
+        "lookTo": [-153.25, 14.02, 1057.62],
+        "fovFrom": 44,
+        "fovTo": 38,
+        "sway": 0.004
+      }
+    },
+    {
+      "id": "IMG-08",
+      "sceneTitle": "无人微距·炉台黄铜水壶烧沸冒汽",
+      "lyricHint": "水刚烧到沸",
+      "start": 17.02,
+      "end": 18.64,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-148.88, 13.92, 1059.15],
+        "to": [-149.08, 13.86, 1058.82],
+        "lookFrom": [-149.40, 13.72, 1058.20],
+        "lookTo": [-149.32, 13.80, 1058.22],
+        "fovFrom": 42,
+        "fovTo": 37,
+        "sway": 0.004
+      }
+    },
+    {
+      "id": "IMG-09",
+      "sceneTitle": "无人微距·半敞木柜与常用瓷杯",
+      "lyricHint": "我从柜子里面，",
+      "start": 18.64,
+      "end": 20.15,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-151.18, 13.84, 1059.12],
+        "to": [-150.45, 13.78, 1058.92],
+        "lookFrom": [-150.76, 13.72, 1058.08],
+        "lookTo": [-150.56, 13.70, 1058.14],
+        "fovFrom": 44,
+        "fovTo": 39,
+        "sway": 0.004
+      }
+    },
+    {
+      "id": "IMG-10",
+      "sceneTitle": "Claude特写·捧杯吹气与弯眉浅笑",
+      "lyricHint": "拿了常用的杯",
+      "start": 20.15,
+      "end": 22.24,
+      "mode": "stand_pad",
+      "pose": "cup_blow_smile",
+      "rider": {
+        "pos": [-151.55, 12.70, 1060.22],
+        "yawDeg": 172.0
+      },
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [-151.55, 14.32, 1060.26],
+        "angleFromDeg": 16,
+        "angleToDeg": -6,
+        "radiusFrom": 1.38,
+        "radiusTo": 1.18,
+        "heightFrom": 0.14,
+        "heightTo": 0.08,
+        "lookLiftFrom": -0.06,
+        "lookLiftTo": 0.02,
+        "fov": 44,
+        "sway": 0.004
+      }
+    },
+    {
+      "id": "IMG-11",
+      "sceneTitle": "无人桌面微距·风翻书页露红书签",
+      "lyricHint": "翻开书才发现，书签在上一回",
+      "start": 22.24,
+      "end": 25.50,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-0.58, 31.92, 950.56],
+        "to": [-0.82, 31.68, 950.80],
+        "lookFrom": [-1.30, 31.18, 951.24],
+        "lookTo": [-1.38, 31.17, 951.29],
+        "fovFrom": 44,
+        "fovTo": 39,
+        "sway": 0.004
+      }
+    },
+    {
+      "id": "IMG-12",
+      "sceneTitle": "Claude表演·捧书哈欠到合眼小憩",
+      "lyricHint": "原来上次也是，读着读着就睡",
+      "start": 25.50,
+      "end": 29.20,
+      "mode": "stand_pad",
+      "pose": "read_yawn_nap",
+      "rider": {
+        "pos": [-2.42, 30.394, 952.10],
+        "yawDeg": 44.0
+      },
+      "camera": {
+        "type": "orbit_arc",
+        "focus": [-2.36, 32.02, 952.04],
+        "angleFromDeg": 116,
+        "angleToDeg": 146,
+        "radiusFrom": 1.48,
+        "radiusTo": 1.66,
+        "heightFrom": 0.10,
+        "heightTo": 0.16,
+        "lookLiftFrom": -0.04,
+        "lookLiftTo": 0.0,
+        "fov": 44,
+        "sway": 0.005
+      }
+    },
+    {
+      "id": "IMG-13",
+      "sceneTitle": "Claude互动·伸手轻触鼓荡白床单",
+      "lyricHint": "阳台上的床单，",
+      "start": 29.20,
+      "end": 30.85,
+      "mode": "stand_pad",
+      "pose": "touch_bedsheet",
+      "rider": {
+        "pos": [-49.85, 16.52, 1079.55],
+        "yawDeg": 24.0
+      },
+      "camera": {
+        "type": "world_lerp",
+        "from": [-47.95, 18.18, 1080.95],
+        "to": [-48.25, 18.24, 1080.75],
+        "lookFrom": [-49.45, 18.08, 1079.15],
+        "lookTo": [-49.15, 18.14, 1078.85],
+        "fovFrom": 48,
+        "fovTo": 46,
+        "sway": 0.008
+      }
+    },
+    {
+      "id": "IMG-14",
+      "sceneTitle": "大摇臂拉升·风推床单与晴空远海",
+      "lyricHint": "被风推了又推",
+      "start": 30.85,
+      "end": 32.40,
+      "mode": "unmanned",
+      "camera": {
+        "type": "world_lerp",
+        "from": [-49.8, 17.6, 1083.2],
+        "to": [-55.5, 22.8, 1091.5],
+        "lookFrom": [-46.5, 17.8, 1075.5],
+        "lookTo": [-43.5, 19.2, 1068.0],
+        "fovFrom": 54,
+        "fovTo": 62,
+        "sway": 0.012
+      }
+    }
+  ]
+}

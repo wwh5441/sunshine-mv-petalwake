@@ -1,0 +1,343 @@
+{
+  "text": " 连 一 口 温 水 都 有 甜 甜 的 滋 味",
+  "segments": [
+    {
+      "start": 67.5,
+      "end": 71.12,
+      "text": " 连 一 口 温 水 都 有 甜 甜 的 滋 味",
+      "seek": null,
+      "tokens": [
+        220,
+        3316,
+        252,
+        26923,
+        220,
+        18144,
+        220,
+        9592,
+        102,
+        220,
+        15590,
+        220,
+        7182,
+        21461,
+        220,
+        40536,
+        220,
+        40536,
+        27949,
+        220,
+        15868,
+        233,
+        220,
+        17268
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 连",
+          "start": 67.5,
+          "end": 67.66,
+          "probability": 0.04282409668667242,
+          "tokens": [
+            220,
+            3316,
+            252
+          ]
+        },
+        {
+          "word": " 一",
+          "start": 67.66,
+          "end": 67.88,
+          "probability": 0.002782293129712343,
+          "tokens": [
+            26923
+          ]
+        },
+        {
+          "word": " 口",
+          "start": 67.96,
+          "end": 68.06,
+          "probability": 0.8313944339752197,
+          "tokens": [
+            220,
+            18144
+          ]
+        },
+        {
+          "word": " 温",
+          "start": 68.18,
+          "end": 68.26,
+          "probability": 0.5408241525292397,
+          "tokens": [
+            220,
+            9592,
+            102
+          ]
+        },
+        {
+          "word": " 水",
+          "start": 68.36,
+          "end": 68.42,
+          "probability": 0.9063072800636292,
+          "tokens": [
+            220,
+            15590
+          ]
+        },
+        {
+          "word": " 都",
+          "start": 68.62,
+          "end": 68.8,
+          "probability": 0.06544260680675507,
+          "tokens": [
+            220,
+            7182
+          ]
+        },
+        {
+          "word": " 有",
+          "start": 68.8,
+          "end": 69.18,
+          "probability": 0.6278131008148193,
+          "tokens": [
+            21461
+          ]
+        },
+        {
+          "word": " 甜",
+          "start": 69.4,
+          "end": 69.56,
+          "probability": 0.9718024134635925,
+          "tokens": [
+            220,
+            40536
+          ]
+        },
+        {
+          "word": " 甜",
+          "start": 69.86,
+          "end": 69.96,
+          "probability": 0.9844051003456116,
+          "tokens": [
+            220,
+            40536
+          ]
+        },
+        {
+          "word": " 的",
+          "start": 69.96,
+          "end": 70.24,
+          "probability": 0.8830226063728333,
+          "tokens": [
+            27949
+          ]
+        },
+        {
+          "word": " 滋",
+          "start": 70.44,
+          "end": 70.62,
+          "probability": 0.8119738698005676,
+          "tokens": [
+            220,
+            15868,
+            233
+          ]
+        },
+        {
+          "word": " 味",
+          "start": 70.98,
+          "end": 71.12,
+          "probability": 0.607347309589386,
+          "tokens": [
+            220,
+            17268
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "text": " 连 一 口 温 水 都 有 甜 甜 的 滋 味",
+    "segments": [
+      {
+        "start": 0.14,
+        "end": 3.76,
+        "text": " 连 一 口 温 水 都 有 甜 甜 的 滋 味",
+        "seek": null,
+        "tokens": [
+          220,
+          3316,
+          252,
+          26923,
+          220,
+          18144,
+          220,
+          9592,
+          102,
+          220,
+          15590,
+          220,
+          7182,
+          21461,
+          220,
+          40536,
+          220,
+          40536,
+          27949,
+          220,
+          15868,
+          233,
+          220,
+          17268
+        ],
+        "temperature": null,
+        "avg_logprob": null,
+        "compression_ratio": null,
+        "no_speech_prob": null,
+        "words": [
+          {
+            "word": " 连",
+            "start": 0.14,
+            "end": 0.3,
+            "probability": 0.04282409668667242,
+            "tokens": [
+              220,
+              3316,
+              252
+            ]
+          },
+          {
+            "word": " 一",
+            "start": 0.3,
+            "end": 0.52,
+            "probability": 0.002782293129712343,
+            "tokens": [
+              26923
+            ]
+          },
+          {
+            "word": " 口",
+            "start": 0.6,
+            "end": 0.7,
+            "probability": 0.8313944339752197,
+            "tokens": [
+              220,
+              18144
+            ]
+          },
+          {
+            "word": " 温",
+            "start": 0.82,
+            "end": 0.9,
+            "probability": 0.5408241525292397,
+            "tokens": [
+              220,
+              9592,
+              102
+            ]
+          },
+          {
+            "word": " 水",
+            "start": 1.0,
+            "end": 1.06,
+            "probability": 0.9063072800636292,
+            "tokens": [
+              220,
+              15590
+            ]
+          },
+          {
+            "word": " 都",
+            "start": 1.26,
+            "end": 1.44,
+            "probability": 0.06544260680675507,
+            "tokens": [
+              220,
+              7182
+            ]
+          },
+          {
+            "word": " 有",
+            "start": 1.44,
+            "end": 1.82,
+            "probability": 0.6278131008148193,
+            "tokens": [
+              21461
+            ]
+          },
+          {
+            "word": " 甜",
+            "start": 2.04,
+            "end": 2.2,
+            "probability": 0.9718024134635925,
+            "tokens": [
+              220,
+              40536
+            ]
+          },
+          {
+            "word": " 甜",
+            "start": 2.5,
+            "end": 2.6,
+            "probability": 0.9844051003456116,
+            "tokens": [
+              220,
+              40536
+            ]
+          },
+          {
+            "word": " 的",
+            "start": 2.6,
+            "end": 2.88,
+            "probability": 0.8830226063728333,
+            "tokens": [
+              27949
+            ]
+          },
+          {
+            "word": " 滋",
+            "start": 3.08,
+            "end": 3.26,
+            "probability": 0.8119738698005676,
+            "tokens": [
+              220,
+              15868,
+              233
+            ]
+          },
+          {
+            "word": " 味",
+            "start": 3.62,
+            "end": 3.76,
+            "probability": 0.607347309589386,
+            "tokens": [
+              220,
+              17268
+            ]
+          }
+        ]
+      }
+    ],
+    "language": null,
+    "ori_dict": {},
+    "regroup_history": "",
+    "nonspeech_sections": [
+      {
+        "start": 0.0,
+        "end": 0.1
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": [
+    {
+      "start": 0.0,
+      "end": 0.1
+    }
+  ]
+}

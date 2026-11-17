@@ -1,0 +1,327 @@
+{
+  "text": " 我 把 棉 被 抱 出 来 抖 了 几 回",
+  "segments": [
+    {
+      "start": 36.12,
+      "end": 38.94,
+      "text": " 我 把 棉 被 抱 出 来 抖 了 几 回",
+      "seek": null,
+      "tokens": [
+        8624,
+        220,
+        16075,
+        220,
+        16407,
+        231,
+        220,
+        23238,
+        220,
+        38382,
+        220,
+        7781,
+        220,
+        6912,
+        220,
+        7235,
+        244,
+        220,
+        2289,
+        220,
+        6336,
+        254,
+        220,
+        8350
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 我",
+          "start": 36.12,
+          "end": 36.3,
+          "probability": 0.0010096783516928554,
+          "tokens": [
+            8624
+          ]
+        },
+        {
+          "word": " 把",
+          "start": 36.38,
+          "end": 36.52,
+          "probability": 0.5781616568565369,
+          "tokens": [
+            220,
+            16075
+          ]
+        },
+        {
+          "word": " 棉",
+          "start": 36.6,
+          "end": 36.68,
+          "probability": 0.16671930951997638,
+          "tokens": [
+            220,
+            16407,
+            231
+          ]
+        },
+        {
+          "word": " 被",
+          "start": 36.8,
+          "end": 36.92,
+          "probability": 0.5557198524475098,
+          "tokens": [
+            220,
+            23238
+          ]
+        },
+        {
+          "word": " 抱",
+          "start": 37.08,
+          "end": 37.26,
+          "probability": 0.14622712135314941,
+          "tokens": [
+            220,
+            38382
+          ]
+        },
+        {
+          "word": " 出",
+          "start": 37.48,
+          "end": 37.56,
+          "probability": 0.011193300597369671,
+          "tokens": [
+            220,
+            7781
+          ]
+        },
+        {
+          "word": " 来",
+          "start": 37.76,
+          "end": 37.92,
+          "probability": 0.6635770797729492,
+          "tokens": [
+            220,
+            6912
+          ]
+        },
+        {
+          "word": " 抖",
+          "start": 38.16,
+          "end": 38.28,
+          "probability": 0.45457218773663044,
+          "tokens": [
+            220,
+            7235,
+            244
+          ]
+        },
+        {
+          "word": " 了",
+          "start": 38.4,
+          "end": 38.5,
+          "probability": 0.9020073413848877,
+          "tokens": [
+            220,
+            2289
+          ]
+        },
+        {
+          "word": " 几",
+          "start": 38.6,
+          "end": 38.68,
+          "probability": 0.5407199747860432,
+          "tokens": [
+            220,
+            6336,
+            254
+          ]
+        },
+        {
+          "word": " 回",
+          "start": 38.8,
+          "end": 38.94,
+          "probability": 0.7438755631446838,
+          "tokens": [
+            220,
+            8350
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "text": " 我 把 棉 被 抱 出 来 抖 了 几 回",
+    "segments": [
+      {
+        "start": 0.1,
+        "end": 2.92,
+        "text": " 我 把 棉 被 抱 出 来 抖 了 几 回",
+        "seek": null,
+        "tokens": [
+          8624,
+          220,
+          16075,
+          220,
+          16407,
+          231,
+          220,
+          23238,
+          220,
+          38382,
+          220,
+          7781,
+          220,
+          6912,
+          220,
+          7235,
+          244,
+          220,
+          2289,
+          220,
+          6336,
+          254,
+          220,
+          8350
+        ],
+        "temperature": null,
+        "avg_logprob": null,
+        "compression_ratio": null,
+        "no_speech_prob": null,
+        "words": [
+          {
+            "word": " 我",
+            "start": 0.1,
+            "end": 0.28,
+            "probability": 0.0010096783516928554,
+            "tokens": [
+              8624
+            ]
+          },
+          {
+            "word": " 把",
+            "start": 0.36,
+            "end": 0.5,
+            "probability": 0.5781616568565369,
+            "tokens": [
+              220,
+              16075
+            ]
+          },
+          {
+            "word": " 棉",
+            "start": 0.58,
+            "end": 0.66,
+            "probability": 0.16671930951997638,
+            "tokens": [
+              220,
+              16407,
+              231
+            ]
+          },
+          {
+            "word": " 被",
+            "start": 0.78,
+            "end": 0.9,
+            "probability": 0.5557198524475098,
+            "tokens": [
+              220,
+              23238
+            ]
+          },
+          {
+            "word": " 抱",
+            "start": 1.06,
+            "end": 1.24,
+            "probability": 0.14622712135314941,
+            "tokens": [
+              220,
+              38382
+            ]
+          },
+          {
+            "word": " 出",
+            "start": 1.46,
+            "end": 1.54,
+            "probability": 0.011193300597369671,
+            "tokens": [
+              220,
+              7781
+            ]
+          },
+          {
+            "word": " 来",
+            "start": 1.74,
+            "end": 1.9,
+            "probability": 0.6635770797729492,
+            "tokens": [
+              220,
+              6912
+            ]
+          },
+          {
+            "word": " 抖",
+            "start": 2.14,
+            "end": 2.26,
+            "probability": 0.45457218773663044,
+            "tokens": [
+              220,
+              7235,
+              244
+            ]
+          },
+          {
+            "word": " 了",
+            "start": 2.38,
+            "end": 2.48,
+            "probability": 0.9020073413848877,
+            "tokens": [
+              220,
+              2289
+            ]
+          },
+          {
+            "word": " 几",
+            "start": 2.58,
+            "end": 2.66,
+            "probability": 0.5407199747860432,
+            "tokens": [
+              220,
+              6336,
+              254
+            ]
+          },
+          {
+            "word": " 回",
+            "start": 2.78,
+            "end": 2.92,
+            "probability": 0.7438755631446838,
+            "tokens": [
+              220,
+              8350
+            ]
+          }
+        ]
+      }
+    ],
+    "language": null,
+    "ori_dict": {},
+    "regroup_history": "",
+    "nonspeech_sections": [
+      {
+        "start": 0.0,
+        "end": 0.1
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": [
+    {
+      "start": 0.0,
+      "end": 0.1
+    }
+  ]
+}

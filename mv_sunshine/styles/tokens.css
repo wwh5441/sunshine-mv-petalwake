@@ -1,0 +1,11 @@
+:root {
+  --mv-bg-dark: #11100e;
+  --mv-stage-shadow: 0 24px 64px rgba(0, 0, 0, 0.55);
+  --mv-gold-warm: #f6c978;
+  --mv-cream-light: #fffaf0;
+  --mv-hud-bg: rgba(18, 15, 12, 0.82);
+  --mv-hud-border: rgba(246, 201, 120, 0.52);
+  --mv-font-serif: "Songti SC", "STSong", "Noto Serif CJK SC", "Hiragino Mincho ProN", serif;
+  --mv-font-sans: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --mv-font-mono: ui-monospace, "SF Mono", Menlo, Monaco, monospace;
+}

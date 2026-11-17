@@ -1,0 +1,167 @@
+{
+  "text": " 我 再 坐 一 会",
+  "segments": [
+    {
+      "start": 208.68,
+      "end": 211.08,
+      "text": " 我 再 坐 一 会",
+      "seek": null,
+      "tokens": [
+        8624,
+        220,
+        8623,
+        220,
+        31123,
+        26923,
+        220,
+        12949
+      ],
+      "temperature": null,
+      "avg_logprob": null,
+      "compression_ratio": null,
+      "no_speech_prob": null,
+      "words": [
+        {
+          "word": " 我",
+          "start": 208.68,
+          "end": 209.14,
+          "probability": 0.0007530534639954567,
+          "tokens": [
+            8624
+          ]
+        },
+        {
+          "word": " 再",
+          "start": 209.54,
+          "end": 209.66,
+          "probability": 0.9495285153388977,
+          "tokens": [
+            220,
+            8623
+          ]
+        },
+        {
+          "word": " 坐",
+          "start": 210.1,
+          "end": 210.26,
+          "probability": 0.046757664531469345,
+          "tokens": [
+            220,
+            31123
+          ]
+        },
+        {
+          "word": " 一",
+          "start": 210.26,
+          "end": 210.72,
+          "probability": 0.9291760921478271,
+          "tokens": [
+            26923
+          ]
+        },
+        {
+          "word": " 会",
+          "start": 210.92,
+          "end": 211.08,
+          "probability": 0.006290914956480265,
+          "tokens": [
+            220,
+            12949
+          ]
+        }
+      ]
+    }
+  ],
+  "language": "zh",
+  "ori_dict": {
+    "text": " 我 再 坐 一 会",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.4,
+        "text": " 我 再 坐 一 会",
+        "seek": null,
+        "tokens": [
+          8624,
+          220,
+          8623,
+          220,
+          31123,
+          26923,
+          220,
+          12949
+        ],
+        "temperature": null,
+        "avg_logprob": null,
+        "compression_ratio": null,
+        "no_speech_prob": null,
+        "words": [
+          {
+            "word": " 我",
+            "start": 0.0,
+            "end": 0.46,
+            "probability": 0.0007530534639954567,
+            "tokens": [
+              8624
+            ]
+          },
+          {
+            "word": " 再",
+            "start": 0.86,
+            "end": 0.98,
+            "probability": 0.9495285153388977,
+            "tokens": [
+              220,
+              8623
+            ]
+          },
+          {
+            "word": " 坐",
+            "start": 1.42,
+            "end": 1.58,
+            "probability": 0.046757664531469345,
+            "tokens": [
+              220,
+              31123
+            ]
+          },
+          {
+            "word": " 一",
+            "start": 1.58,
+            "end": 2.04,
+            "probability": 0.9291760921478271,
+            "tokens": [
+              26923
+            ]
+          },
+          {
+            "word": " 会",
+            "start": 2.24,
+            "end": 2.4,
+            "probability": 0.006290914956480265,
+            "tokens": [
+              220,
+              12949
+            ]
+          }
+        ]
+      }
+    ],
+    "language": null,
+    "ori_dict": {},
+    "regroup_history": "",
+    "nonspeech_sections": [
+      {
+        "start": 1.36,
+        "end": 1.4
+      }
+    ]
+  },
+  "regroup_history": "",
+  "nonspeech_sections": [
+    {
+      "start": 1.36,
+      "end": 1.4
+    }
+  ]
+}
